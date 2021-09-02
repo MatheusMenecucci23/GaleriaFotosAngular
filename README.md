@@ -1,7 +1,6 @@
 
 # Alurapic
 
-# CONTINUÇÃO DO PROJETO [ANGULAR-PARTE1](https://github.com/MatheusMenecucci23/angular-parte1)
 
 # Entrando com usuário já cadastrado
 ![Animação-login](https://user-images.githubusercontent.com/72262553/129817858-556a730f-0c77-458f-82f5-de6730af82e5.gif)
@@ -14,7 +13,6 @@
 
 
 
-# Vá para parte final do projeto: [ANGULAR PARTE3](https://github.com/MatheusMenecucci23/AngularParte3)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
