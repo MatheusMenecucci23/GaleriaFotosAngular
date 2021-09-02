@@ -3,7 +3,6 @@
 # Pesquisando as imagens pela descrição
 ![Animação-alurapic1](https://user-images.githubusercontent.com/72262553/129400586-c3055ecc-e7e1-4dda-b3ad-3215e8cfbf54.gif)
 
-# LINK PARA A [PARTE-2](https://github.com/MatheusMenecucci23/angular-parte2) DO PROJETO
 
 ## Development server
 
