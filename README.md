@@ -1,6 +1,5 @@
 # Alurapic
 
-# ESSE PROJETO É A CONTINUAÇÃO DO [ANGULAR-PARTE2](https://github.com/MatheusMenecucci23/angular-parte2)
 
 # CURTINDO E COMENTANDO AS FOTOS
 ![Animação-curtir-comentar](https://user-images.githubusercontent.com/72262553/130475804-9b50493b-3819-49f8-8b6b-38a2d54aabdf.gif)
