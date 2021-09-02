@@ -1,0 +1,10 @@
+<h1 style="background: red" apDarkenOnHover>Photos</h1>
+<ap-search
+    (onTyping)="filter = $event" [value]="filter">
+</ap-search>
+<!--$event é o valor inputado-->
+
+<!-- com o | os dados recebidos são transformados de acordo com a transformação referenciada, no caso filterByDescription -->
+<ap-photos [photos]="photos | filterByDescription: filter"></ap-photos>
+<ap-load-button (click)="load()"
+[hasMore]="hasMore1"></ap-load-button>
